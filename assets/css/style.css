@@ -9,7 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: Verdana, sans-serif;
+  /* color: #fff; */
   color: #fff;
   position: relative;
   background: transparent;
@@ -19,6 +20,7 @@ body::before {
   content: "";
   position: fixed;
   background: #010e1b;
+  /* background: rgb(23, 103, 201); */
   background-size: cover;
   left: 0;
   right: 0;
