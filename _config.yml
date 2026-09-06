@@ -251,6 +251,7 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - assets/json/resume.json
 keep_files:
   - CNAME
   - .nojekyll
