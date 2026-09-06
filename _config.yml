@@ -245,8 +245,6 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
-  - _pages/cv.md
-  - assets/pdf/tung_cv.pdf
   - purgecss.config.js
   - README.md
   - readme_preview/
