@@ -34,7 +34,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm Tung, also known as Patrick, and I'm a PhD student in the [Department of Statistical Science](https://stat.duke.edu/) at [Duke University](https://www.duke.edu/). Prior my PhD, I was working as a data scientist at [ABBBANK](https://abbank.vn/) and an AI Enginer Intern at [Vingroup Big Data Institute](https://vingroup.net/en) in Hanoi, Vietnam. I completed my Bachelor's degree in Mathematics with Statistics at [Imperial College London](https://www.imperial.ac.uk/). 
+I'm Tung, also known as Patrick, and I'm a PhD student in the [Department of Statistical Science](https://stat.duke.edu/) at [Duke University](https://www.duke.edu/). Prior my PhD, I was working as a data scientist at [ABBANK](https://abbank.vn/) and an AI Enginer Intern at [Vingroup Big Data Institute](https://vingroup.net/en) in Hanoi, Vietnam. I completed my Bachelor's degree in Mathematics with Statistics at [Imperial College London](https://www.imperial.ac.uk/). 
 
 My research interests include:
 - Bayesian computation: MCMC, Variational Inference
