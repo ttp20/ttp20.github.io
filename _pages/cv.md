@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-description: Download the CV as a PDF.
+description: Click below to see my full CV in pdf format.
 ---
 
-[Download CV (PDF)](/assets/pdf/tung_cv.pdf)
+[Tung (Patrick) Pham's CV (PDF)](/assets/pdf/tung_cv.pdf)

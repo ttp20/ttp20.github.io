@@ -14,7 +14,7 @@ calendar: true
 
 **Duration:** Spring 2026  
 
-**Website:** [STA199 Course Page](sta199-s26.github.io)
+**Website:** [STA199 Course Page](https://sta199-s26.github.io)
 
 **Professor:** [Prof. John Zito](https://scholars.duke.edu/person/john.zito)
 
