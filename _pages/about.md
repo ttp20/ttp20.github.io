@@ -34,10 +34,16 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm Tung, also known as Patrick, and I'm a PhD student in the [Department of Statistical Science](https://stat.duke.edu/) at [Duke University](https://www.duke.edu/). Prior to my PhD, I was working as a data scientist at [ABBANK](https://abbank.vn/) and an AI Enginer Intern at [Vingroup Big Data Institute](https://vingroup.net/en) in Hanoi, Vietnam. I completed my Bachelor's degree in Mathematics with Statistics at [Imperial College London](https://www.imperial.ac.uk/). 
+I'm Tung, also known as Patrick, and I'm a PhD student in the [Department of Statistical Science](https://stat.duke.edu/) at [Duke University](https://www.duke.edu/). Prior to my PhD, I was working as a data scientist at [ABBANK](https://abbank.vn/) and an AI Enginer Intern at [Vingroup Big Data Institute](https://vingroup.net/en) in Hanoi, Vietnam. I completed my Bachelor's degree in Mathematics with Statistics at [Imperial College London](https://www.imperial.ac.uk/).
 
-My research interests include:
+At the point of writing this, I'm a second year PhD student in the process of preparing for my preliminary examinations. I am doing reading courses with professors [Scott Schmidler](https://www2.stat.duke.edu/~scs/), [Simon Mak](https://sites.google.com/view/simonmak/home), and [Sifan Liu](https://liusf15.github.io/index.html) on three different topics: With Scott, I am doing research on various modern sampling techniques that handle multimodality; With Sifan, I'm doing research on variational inference; and with Simon, I am doing research on surrogate modelling with Gaussian Processes and other physics-informed statistical/machine learning models. 
+
+Besides my research at Duke, I am also interested in computational optimal transport and machine learning. These topics are inspired by three great Vietnamese Statistics that I really look up to: Professor [Long Nguyen (Michigan)](https://dept.stat.lsa.umich.edu/~xuanlong/), [Nhat Ho (UT Austin)](https://nhatptnk8912.github.io/), [Khai Nguyen (Texas A&M)](https://khainb.com/).
+
+To summarize, my research interests include:
 - Bayesian computation: MCMC, Variational Inference
 - Surrogate modeling
 - Machine learning and optimization
 - Optimal transport
+
+Outside of research, I am a big fan of basketball: I love watching basketball at all levels (NBA, College, High School) and all formats (5v5s, 3v3s, 1v1s). I also enjoy playing/watching football (or soccer if you are American!), as well as potting some balls in a local pool hall.
