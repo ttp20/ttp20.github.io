@@ -38,12 +38,12 @@ I'm Tung, also known as Patrick, and I'm a PhD student in the [Department of Sta
 
 At the point of writing this, I'm a second year PhD student in the process of preparing for my preliminary examinations. I am doing reading courses with professors [Scott Schmidler](https://www2.stat.duke.edu/~scs/), [Simon Mak](https://sites.google.com/view/simonmak/home), and [Sifan Liu](https://liusf15.github.io/index.html) on three different topics: With Scott, I am doing research on various modern sampling techniques that handle multimodality; With Sifan, I'm doing research on variational inference; and with Simon, I am doing research on surrogate modelling with Gaussian Processes and other physics-informed statistical/machine learning models. 
 
-Besides my research at Duke, I am also interested in computational optimal transport and machine learning. These topics are inspired by three great Vietnamese Statistics professors that I really look up to: Professor [Long Nguyen (Michigan)](https://dept.stat.lsa.umich.edu/~xuanlong/), [Nhat Ho (UT Austin)](https://nhatptnk8912.github.io/), [Khai Nguyen (Texas A&M)](https://khainb.com/).
+Besides my main research at Duke, I am also interested in computational optimal transport, gradient flows and machine learning. These topics are inspired by three great Vietnamese Statistics professors that I really look up to: Professor [Long Nguyen (Michigan)](https://dept.stat.lsa.umich.edu/~xuanlong/), [Nhat Ho (UT Austin)](https://nhatptnk8912.github.io/), [Khai Nguyen (Texas A&M)](https://khainb.com/). I'm currently participating in a reading group on gradient flow here at Duke.
 
 To summarize, my research interests include:
 - Bayesian computation: MCMC, Variational Inference
 - Surrogate modeling
 - Machine learning and optimization
-- Optimal transport
+- Optimal transport, gradient flow
 
-Outside of research, I am a big fan of basketball: I love watching basketball at all levels (NBA, College, High School) and all formats (5v5s, 3v3s, 1v1s). I also enjoy playing/watching football (or soccer if you are American!), as well as potting some balls in a local pool hall.
+Outside of research, I am a big fan of basketball: I love hooping and watching basketball at all levels (NBA, College, High School) and all formats (5v5s, 3v3s, 1v1s). I also enjoy playing/watching football (or soccer if you are American!), as well as potting some balls in a local pool hall.
